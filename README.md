@@ -1,7 +1,5 @@
 # 🎮 [GWAK GEUN O] - Gameplay Programmer
 
-[![Git Stats](https://github-readme-stats.vercel.app/api?username=Hato-1998&theme=transparent&show_icons=true&hide_border=false&title_color=2F80ED&text_color=434D56&icon_color=2F80ED)](https://github.com/Hato-1998)
-
 <br>
 
 ## 👨‍💻 About Me
