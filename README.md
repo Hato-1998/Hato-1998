@@ -52,7 +52,7 @@
 
 ---
 
-<div align="center">
+<div align="Left">
   <img src="images/image_0.gif" alt="Coding Character" width="400" />
 </div>
 
