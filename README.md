@@ -50,6 +50,10 @@
 
 <br>
 
-
 ---
+
+<div align="center">
+  <img src="images/image_0.gif" alt="Coding Character" width="400" />
+</div>
+
 📫 **Contact:** [spdhfh31@gmail.com] | 📝 **Blog:** [[티스토리](https://isekaihato.tistory.com/)]
