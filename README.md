@@ -54,4 +54,4 @@
   <img src="images/image_0.gif" alt="Coding Character" width="400" />
 </div>
 
-📫 **Contact:** [spdhfh31@gmail.com] | 📝 **Blog:** [[티스토리](https://isekaihato.tistory.com/)]
+📫 **Contact:** [spdhfh31@gmail.com] [[게임잡](https://www.gamejob.co.kr/User/Resume/View?R_NO=209294)] [[LinkedIn](https://www.linkedin.com/in/geonoh-kwak-814a33242/)] | 📝 **Blog:** [[티스토리](https://isekaihato.tistory.com/)]
