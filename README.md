@@ -4,9 +4,10 @@
 
 ## 👨‍💻 About Me
 📫 **Contact:** [spdhfh31@gmail.com] 
-[[게임잡](https://www.gamejob.co.kr/User/Resume/View?R_NO=209294)] 
-[[LinkedIn](https://www.linkedin.com/in/geonoh-kwak-814a33242/)]
+[[게임잡](https://www.gamejob.co.kr/User/Resume/View?R_NO=209294)]
+[[LinkedIn](https://www.linkedin.com/in/geonoh-kwak-814a33242/)]<br>
 | 📝 **Blog:** [[티스토리](https://isekaihato.tistory.com/)]
+| 📝 **이력서:** [[GitPage](https://hato-1998.github.io/GGOResume/)]<br>
 
 <br>
 
